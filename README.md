@@ -1,5 +1,7 @@
 ### Olá! Sou Andreilson, mas pode me chamar de Andrei
 
+Bem-vindo à área que uso para documentar meus estudos e avanços em Análise de Dados aplicados à Finanças.
+
 - 👨🏽‍🎓 Bacharel em economia e atualmente granduando em ciências contábeis, com experências em auditoria contábil de Fundos de Investimento.
 - 🌱 Atualmente estou fortalecendo minhas habilidades em análise financeira, contabilidade e modelagem de dados.
 - 💡 Criei esse Github para monstrar o que vou aprendendo ao longo da jornada para ser um profissional da àrea financeira com expertise em análise e modelagem de dados.
