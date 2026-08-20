@@ -1,4 +1,4 @@
-### Olá! Sou Andreilson, mas pode me chamar de Andrei
+### Olá!
 
 Bem-vindo à área que uso para documentar meus estudos e avanços em Análise de Dados aplicados à Finanças.
 
