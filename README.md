@@ -1,10 +1,12 @@
-### Olá!
+## Olá! 👋
 
-Bem-vindo à área que uso para documentar meus estudos e avanços em Análise de Dados aplicados à Finanças.
+Sou Andreilson Melo, bacharel em Ciências Econômicas e atualmente graduando em Ciências Contábeis, construindo minha carreira na interseção entre Finanças, Contabilidade, Auditoria e Análise de Dados.
 
-- 👨🏽‍🎓 Bacharel em economia e atualmente granduando em ciências contábeis, com experências em auditoria contábil de Fundos de Investimento.
-- 🌱 Atualmente estou fortalecendo minhas habilidades em análise financeira, contabilidade e modelagem de dados.
-- 💡 Criei esse Github para compartilhar o que vou aprendendo ao longo da jornada para ser um profissional da àrea financeira com expertise em análise e modelagem de dados.
+💼 Tenho experiência em auditoria contábil de fundos de investimento, atuando na análise de informações financeiras, demonstrações contábeis, riscos, controles e procedimentos de auditoria. Essa experiência me proporcionou uma base sólida em DRE, Balanço Patrimonial, análise de contas e interpretação de informações financeiras.
+
+📊 Atualmente, estou direcionando essa base para FP&A e Finanças Corporativas, fortalecendo minhas habilidades em análise financeira, indicadores, modelagem de dados e Business Intelligence, utilizando ferramentas como Excel, Power BI, SQL e Python.
+
+🚀 Criei este GitHub para transformar meus estudos em projetos práticos, demonstrando como dados podem ser utilizados para analisar desempenho, acompanhar indicadores e apoiar a tomada de decisões financeiras.
 
 ---
 
@@ -24,6 +26,6 @@ Bem-vindo à área que uso para documentar meus estudos e avanços em Análise d
 />
 
 
-- 💡Contate-me:
-    Meloandreilson77@gmail.com
-    www.linkedin.com/in/andreilsonmelo
+💡Contate-me:
+- LinkedIN: Meloandreilson77@gmail.com
+- E-mail: www.linkedin.com/in/andreilsonmelo
