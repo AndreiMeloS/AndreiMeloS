@@ -28,10 +28,6 @@ Sou **Andreilson Melo**, bacharel em **Ciências Econômicas** e graduando em **
     width="48" height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/notebook-lm-dark.svg" alt="Google-Notebook-LM"
 />
 
-<img import { NotebookLM } from '@lobehub/icons';
-export default () => <NotebookLM.Avatar size={56} />;  
-
-
 
 💡Contate-me:
 - LinkedIN: Meloandreilson77@gmail.com
