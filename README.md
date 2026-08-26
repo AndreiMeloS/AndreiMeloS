@@ -24,6 +24,13 @@ Sou **Andreilson Melo**, bacharel em **Ciências Econômicas** e graduando em **
 <img 
     width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="github"
 />
+<img 
+    width="48" height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/notebook-lm-dark.svg" alt="Google-Notebook-LM"
+/>
+
+<img import { NotebookLM } from '@lobehub/icons';
+export default () => <NotebookLM.Avatar size={56} />;  
+
 
 
 💡Contate-me:
