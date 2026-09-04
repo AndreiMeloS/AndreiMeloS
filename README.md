@@ -4,9 +4,9 @@ Sou **Andreilson Melo**, bacharel em **Ciências Econômicas** e graduando em **
 
 💼 Tenho experiência em **Auditoria Contábil**, atuando na análise de informações financeiras, demonstrações contábeis, riscos, controles e procedimentos de auditoria. Essa experiência me proporcionou uma base sólida em **DRE, Balanço Patrimonial, análise de contas e interpretação de informações financeiras**.
 
-📊 Atualmente, estou direcionando essa base para **FP&A e Finanças Corporativas**, fortalecendo minhas habilidades em **análise financeira, indicadores, modelagem de dados e Business Intelligence**, utilizando ferramentas como **Excel, Power BI, SQL e Python**.
+📊 Atualmente, estou direcionando essa base para **Finanças Corporativas e Mercado Financeiro**, fortalecendo minhas habilidades em **análise financeira, indicadores, modelagem de dados e Business Intelligence**, utilizando ferramentas como **Excel, Power BI, SQL e Python**.
 
-🚀 Criei este GitHub para transformar meus estudos em **projetos práticos**, demonstrando como dados podem ser utilizados para analisar desempenho, acompanhar indicadores e apoiar a tomada de decisões financeiras.
+🚀 Criei este GitHub para transformar meus estudos iniciais em **projetos práticos**, demonstrando como dados podem ser utilizados para analisar desempenho, acompanhar indicadores e apoiar a tomada de decisões financeiras.
 
 ---
 
