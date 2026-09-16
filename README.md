@@ -30,8 +30,8 @@ Sou **Andreilson Melo**, bacharel em **Ciências Econômicas** e graduando em **
 
 
 💡Contate-me:
-- LinkedIN: Meloandreilson77@gmail.com
-- E-mail: www.linkedin.com/in/andreilsonmelo
+- E-mail: Meloandreilson@gmail.com
+- LinkedIn: www.linkedin.com/in/andreilsonmelo
 
 ---
 
