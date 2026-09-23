@@ -35,13 +35,16 @@ Sou **Andreilson Melo**, bacharel em **Ciências Econômicas** e graduando em **
 
 ---
 
+Projetos Práticos Corporativos
+- Manual de KPI's
+- Vendas em E-commerce
+- DRE no PowerBI
+
 Bootcamp DIO
 - Desafio Agente de IA para Valuation de Ativos
 - Desafio 1 - Dashboard de Vendas
 - Desafio 2 - Relatório analítico de Vendas
 
-Projetos Práticos Corporativos
-- Vendas em E-commerce
-- DRE no PowerBI
+
 
 
