@@ -37,6 +37,7 @@ Sou **Andreilson Melo**, bacharel em **Ciências Econômicas** e graduando em **
 
 Projetos Práticos Corporativos
 - Manual de KPI's
+- Case de Automatização com Python
 - Vendas em E-commerce
 - DRE no PowerBI
 
