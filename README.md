@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Sou **Andreilson Melo**, bacharel em **Ciências Econômicas** e graduando em **Ciências Contábeis**, construindo minha carreira na interseção entre **Finanças, Contabilidade e Análise de Dados**.
+Sou **Andreilson Melo**, bacharel em **Ciências Econômicas** e graduando em **Ciências Contábeis**, construindo minha carreira na interseção entre **Finanças e Análise de Dados**.
 
 🚀 Criei este GitHub para transformar meus estudos iniciais em **projetos práticos**, demonstrando como dados podem ser utilizados para analisar desempenho, acompanhar indicadores e apoiar a tomada de decisões financeiras.
 
